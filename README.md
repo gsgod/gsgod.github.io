@@ -1,1 +1,1 @@
-# gsgod.github.io
+## Notion redirect repo
